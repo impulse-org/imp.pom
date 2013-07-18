@@ -12,20 +12,15 @@
 	<packaging>pom</packaging>
 	
 	<properties>
-		<tycho-version>0.17.0</tycho-version>
+		<tycho-version>0.18.0</tycho-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>		
 	</properties>
 
 	<repositories>
-<!-- 		<repository> -->
-<!-- 			<id>eclipse-indigo</id> -->
-<!-- 			<layout>p2</layout> -->
-<!-- 			<url>http://download.eclipse.org/releases/indigo</url> -->
-<!-- 		</repository> -->
 		<repository>
-			<id>juno</id>
+			<id>kepler</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/releases/juno</url>
+			<url>http://download.eclipse.org/releases/kepler</url>
 		</repository>
 	</repositories>
 
