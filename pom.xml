@@ -12,15 +12,15 @@
 	<packaging>pom</packaging>
 	
 	<properties>
-		<tycho-version>0.22.0</tycho-version>
+		<tycho-version>0.21.0</tycho-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>		
 	</properties>
 
 	<repositories>
 		<repository>
-			<id>luna</id>
+			<id>kepler</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/releases/luna</url>
+			<url>http://download.eclipse.org/releases/kepler</url>
 		</repository>
 	</repositories>
 
